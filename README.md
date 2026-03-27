@@ -1,6 +1,6 @@
 # Biblioteca Virtual
 Olá!</br>
-Sejam todos muito bem vindos! </br>
+Seja muito bem vindoa(o)! </br>
 Aqui reúno alguns materiais em PDF, EPUB e LaTeX.
 </br>
 </br>
