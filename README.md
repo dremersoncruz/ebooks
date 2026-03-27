@@ -1,3 +1,11 @@
-# Meus eBooks
+# Biblioteca Virtual
 Olá!</br>
-Repositório com meus livros digitais em PDF, EPUB e LaTeX. Aqui você pode baixar ou visualizar cada livro.
+Seja todos muito bem vindos! </br>
+Aqui reúno alguns materiais em PDF, EPUB e LaTeX.
+<\br>
+<\br>
+Fique a vontade para explorar, ler e estudar.
+<\br>
+<\br>
+Bons estudos!
+
